@@ -121,10 +121,6 @@ typings/
 # Ignore all local history of files
 .history
 
-# HubSpot configs
-hubspot.config.yaml
-hubspot.config.yml
-
 # Lock files
 package-lock.json
 yarn.lock
